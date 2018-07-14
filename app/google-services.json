@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "931125948797",
+    "firebase_url": "https://graduation-012.firebaseio.com",
+    "project_id": "graduation-012",
+    "storage_bucket": "graduation-012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931125948797:android:ddeedc153f80ba80",
+        "android_client_info": {
+          "package_name": "com.selema.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931125948797-hp8otr5pvr59juqi2an5iblenajj43qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selema.newproject",
+            "certificate_hash": "de21426e191ffb6f1301c0405f548abff53a4832"
+          }
+        },
+        {
+          "client_id": "931125948797-1qnmpk6cnj2b6g44i3mgip473n5j3nl6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "931125948797-1qnmpk6cnj2b6g44i3mgip473n5j3nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WcsvhRovtciKH8lqLe3Aib6SKBh1TxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931125948797-1qnmpk6cnj2b6g44i3mgip473n5j3nl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

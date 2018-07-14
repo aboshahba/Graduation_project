@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="245dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp">
+
+    <com.vinaygaba.creditcardview.CreditCardView
+        android:id="@+id/card_list_item"
+        android:layout_width="fill_parent"
+        android:layout_height="225dp"
+        android:background="@drawable/cardbackground_world"
+        android:gravity="center_vertical|center"
+        app:cardName="Mohamed Selema"
+        app:cardNameTextColor="#cccccc"
+        app:cardNumberFormat="masked_all_but_last_four"
+        app:cardNumberTextColor="#cccccc"
+        app:expiryDate="02/22"
+        app:expiryDateTextColor="#cccccc"
+        app:hintTextColor="#cccccc"
+        app:isEditable="true"
+        app:putChip="true"
+        app:type="auto"
+        app:validTillTextColor="#cccccc"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:ignore="MissingConstraints" />
+
+</android.support.constraint.ConstraintLayout>

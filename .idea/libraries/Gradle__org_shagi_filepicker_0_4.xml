@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.shagi:filepicker-0.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/filepicker-0.4.aar/e419fc255e8e1512a787f1282b53c444/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/filepicker-0.4.aar/e419fc255e8e1512a787f1282b53c444/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.shagi/filepicker/0.4/6ed76830611af3470bdfa936cb8bf9d3497defed/filepicker-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
